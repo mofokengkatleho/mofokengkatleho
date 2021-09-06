@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Katleho Mofokeng
-- 👀 I’m interested in Web development, Mobile development and Machine learning.
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript, Python, React and Node
 - 💞️ I’m looking to collaborate on every technology under the sun !!!
 - 📫 How to reach me : katlehomofokeng@protonmail.com
