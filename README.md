@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Katleho Mofokeng
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript, Python, React and Node
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on every technology under the sun !!!
 - 📫 How to reach me : katlehomofokeng@protonmail.com
 
