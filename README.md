@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Katleho Mofokeng
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Distributed Systems, Cloud Computing, IoT and Artificial Intelligence.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on every technology under the sun !!!
 - 📫 How to reach me : katlehomofokeng@protonmail.com
